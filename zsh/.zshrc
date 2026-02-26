@@ -112,5 +112,8 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias o='xdg-open'
 alias n='/home/vlad/programs/nvim/nvim-linux-x86_64.appimage'
+alias l='ls'
+alias clip='xclip -selection clipboard'
+
 
 . "$HOME/.local/bin/env"
